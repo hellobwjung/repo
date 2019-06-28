@@ -197,7 +197,11 @@ set autoindent
 set cindent
 
 
-
+"" highlight
+set hlsearch
+hi Search ctermbg=DarkMagenta
+hi Search ctermfg=White 
+noremap <ESC><ESC> :noh<CR><ESC>
 
 
 "" remove white space
