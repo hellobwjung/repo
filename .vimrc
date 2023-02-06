@@ -17,7 +17,7 @@ Plugin 'ctags.vim'
 Plugin 'shougo/neocomplete.vim'
 Plugin 'wesleyche/srcexpl'
 Plugin 'taglist.vim'
-Plugin 'majutsushi/tagbar'
+""Plugin 'majutsushi/tagbar'
 Plugin 'brookhong/cscope.vim'
 call vundle#end()
 "execute pathogen#infect()
